@@ -1,0 +1,23 @@
+.social{
+	width: 25px;
+	height: 25px;
+}
+.logo{
+	width: 10%;
+    height: 10%;
+    border-radius: 100%;
+}
+.italic{
+	font-style: italic;
+}
+.yaziBoyut{
+	font-size: 1.5rem;
+}
+.girinti{
+	text-indent: 10px;
+}
+.opacity{
+	opacity: 0.4;
+}
+
+
